@@ -84,7 +84,7 @@ export default function Footer() {
               className='bg-gradient-to-r from-blue-500 to-cyan-500 hover:from-blue-600 hover:to-cyan-600 text-white font-bold py-4 px-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 flex items-center gap-3'
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              onClick={() => window.open('tel:+918088058792', '_self')}
+              onClick={() => window.open('tel:+919071020882', '_self')}
             >
               <Phone className='w-5 h-5' />
               Book Tele-Consultancy Now
@@ -179,7 +179,7 @@ export default function Footer() {
             <div className='flex flex-col gap-3'>
               <div className='flex items-center gap-3 text-gray-600'>
                 <Phone className='w-4 h-4 text-blue-500' />
-                <span>+91 8088058792</span>
+                <span>+91 9071020882</span>
               </div>
               <div className='flex items-center gap-3 text-gray-600'>
                 <Mail className='w-4 h-4 text-blue-500' />

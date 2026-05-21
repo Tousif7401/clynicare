@@ -237,7 +237,7 @@ const ServicesSection = () => {
                 Quick Book
               </motion.button>
               <motion.a
-                href="tel:+91 8088058792"
+                href="tel:+91 9071020882"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="flex-1 border-2 border-blue-500 text-blue-600 hover:bg-blue-50 font-bold py-4 px-6 rounded-2xl transition-all duration-300 flex items-center justify-center gap-2"

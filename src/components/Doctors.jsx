@@ -263,7 +263,7 @@ const Doctors = () => {
                     className="flex-1 bg-gradient-to-r from-blue-500 to-cyan-500 hover:from-blue-600 hover:to-cyan-600 text-white font-semibold py-3 px-4 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-2 text-sm"
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
-                    onClick={() => window.open('tel:+91 8088058792', '_self')}
+                    onClick={() => window.open('tel:+91 9071020882', '_self')}
                   >
                     <Phone className="w-4 h-4" />
                     Book Now
@@ -344,7 +344,7 @@ const Doctors = () => {
           <p className="text-base md:text-lg text-gray-600 mb-6 max-w-2xl mx-auto">
             Ready to experience our innovative hybrid healthcare approach?
           </p>
-          <a href="tel:+91 8088058792">
+          <a href="tel:+91 9071020882">
           <button className="bg-gradient-to-r from-blue-500 to-cyan-500 hover:from-blue-600 hover:to-cyan-600 text-white font-bold py-3 md:py-4 px-6 md:px-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 flex items-center gap-2 md:gap-3 mx-auto text-sm md:text-base">
             <Phone className="w-4 h-4 md:w-5 md:h-5" />
             Book Your Tele-Consultancy Service

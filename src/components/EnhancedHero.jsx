@@ -334,7 +334,7 @@ const EnhancedHero = () => {
 
       {/* Emergency Contact */}
       <div className="fixed bottom-4 md:bottom-6 right-4 md:right-6 z-20">
-        <a href="tel:+918088058792">
+        <a href="tel:+919071020882">
           <button className="bg-blue-500 text-white p-3 md:p-4 rounded-full shadow-lg hover:shadow-xl transition-all">
             <Phone className="w-5 h-5 md:w-6 md:h-6" />
           </button>

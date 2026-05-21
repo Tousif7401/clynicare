@@ -109,7 +109,7 @@ const Hero = React.memo(() => {
               className="bg-gradient-to-r from-blue-500 to-cyan-500 text-white px-6 py-3 rounded-full flex items-center gap-2 hover:shadow-lg transition-all duration-300 font-medium"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              onClick={() => window.open('tel:+91 8088058792', '_self')}
+              onClick={() => window.open('tel:+91 9071020882', '_self')}
             >
               <Phone className="w-5 h-5"/>
               <span>Call Us</span>

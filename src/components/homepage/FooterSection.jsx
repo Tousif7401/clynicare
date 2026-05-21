@@ -84,7 +84,7 @@ const FooterSection = () => {
                 <div className="space-y-3 sm:space-y-4">
                   <div className="flex items-center space-x-3">
                     <Phone className="h-4 w-4 sm:h-5 sm:w-5 text-blue-400" />
-                    <span className="text-gray-300 text-sm sm:text-base">+91 8088058792</span>
+                    <span className="text-gray-300 text-sm sm:text-base">+91 9071020882</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <Mail className="h-4 w-4 sm:h-5 sm:w-5 text-blue-400" />

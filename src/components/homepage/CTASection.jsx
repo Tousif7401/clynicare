@@ -54,7 +54,7 @@ const CTASection = () => {
           
           <div className="pt-8 border-t border-blue-500/30">
             <p className="text-blue-200 text-body">
-              Questions? Call us at <span className="font-semibold text-white">+91 8088058792</span> or email <span className="font-semibold text-white">care@clynicare.com</span>
+              Questions? Call us at <span className="font-semibold text-white">+91 9071020882</span> or email <span className="font-semibold text-white">care@clynicare.com</span>
             </p>
           </div>
         </motion.div>
